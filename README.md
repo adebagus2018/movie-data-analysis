@@ -45,8 +45,8 @@ Langkah-langkah utama yang dilakukan:
 ---
 
 ### 💾 Dataset
-Dataset diperoleh dari **[Kaggle](https://www.kaggle.com/)**  
-*(Pastikan menyesuaikan link dataset aslinya jika kamu ingin mencantumkan sumber spesifik.)*
+Dataset diperoleh dari **[Kaggle]https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset**  
+
 
 ---
 
@@ -54,7 +54,7 @@ Dataset diperoleh dari **[Kaggle](https://www.kaggle.com/)**
 **Ade Bagus Ramdhanu**  
 Data Analyst Enthusiast | Python | EDA | Visualization  
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/adebagusramdhanu)  
 📁 Explore more projects on [GitHub](https://github.com/adebagusramdhanu)
 
 ---
